@@ -15,7 +15,7 @@ react.js and OpenAI API.
 <img width="954" alt="Screen Shot 2023-02-04 at 11 13 04 AM" src="https://user-images.githubusercontent.com/90220317/216779162-5f5ad9fb-d54a-43e1-94e2-16250960b4e2.png">
 <img width="967" alt="Screen Shot 2023-02-04 at 11 12 51 AM" src="https://user-images.githubusercontent.com/90220317/216779199-285e6db9-e629-4f3f-8f2a-7d1e9f022ac8.png">
 
-More apps using OpneAI
+More apps using OpenAI
 
 ## Infinite rothko
 
@@ -37,15 +37,4 @@ More apps using OpneAI
 
 See more on my Instagram
 
-[Live App](https://www.instagram.com/marlonbarriossolano/)
-
-
-
-
-
-
-
-
-
-
-
+[Instagram](https://www.instagram.com/marlonbarriossolano/)
